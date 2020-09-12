@@ -1,0 +1,23 @@
+.Question {
+  width: 80%;
+  margin: 16px auto;
+  background-color: white;
+  padding: 16px;
+  border: 2px solid black;
+}
+
+.Main {
+  font-weight: bold;
+}
+
+.tag {
+  background-color: aquamarine;
+  border-radius: 5;
+  margin-right: 16px;
+}
+
+.match {
+  background-color: red;
+  border-radius: 5;
+  margin-right: 16px;
+}
